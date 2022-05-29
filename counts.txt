@@ -1,0 +1,4 @@
+test1.txt : 4 lines, 8 words
+test2.txt : 3 lines, 6 words
+test3.txt : 2 lines, 4 words
+TOTAL: 9 lines, 18 words
